@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/2d115d3a-5645-4d8f-b0c0-e28e234c7c4c/Query.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Downloads/L2.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Downloads/L3.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Downloads/L4.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Downloads/mysqlsampledatabase.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Module3_Week1/CreateStudentManager.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Module3_Week1/giao_vien.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Module3_Week1/hoc_vien.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Module3_Week1/hoc_vien_mon_hoc.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Module3_Week1/lop.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Module3_Week1/mon_hoc.sql" dialect="MySQL" />
+  </component>
+</project>
